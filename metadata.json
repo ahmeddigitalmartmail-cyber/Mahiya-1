@@ -1,0 +1,6 @@
+{
+  "name": "AHMED DIGITAL & MART",
+  "description": "Official interactive website for AHMED DIGITAL & MART - Telecom, Electronics & Digital Services in Terokhada, Khulna.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
